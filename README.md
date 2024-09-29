@@ -5,3 +5,5 @@ Repo da cui prendere "inspirazione":
 - @LM1997610 https://github.com/LM1997610/AdvancedML
 - @MaviVestini [https://github.com/aml-2023/assignment-3](https://github.com/aml-2023)
 (ci sono sia un assignment che progetto finale + altra roba)
+
+Assignment 1 Solution -> https://github.com/LM1997610/AdvancedML/blob/main/Assignment_1/README.md
