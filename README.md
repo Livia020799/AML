@@ -7,3 +7,5 @@ Repo da cui prendere "inspirazione":
 (ci sono sia un assignment che progetto finale + altra roba)
 
 Assignment 1 Solution -> https://github.com/LM1997610/AdvancedML/blob/main/Assignment_1/README.md
+
+Book with code : https://d2l.ai/chapter_convolutional-neural-networks/pooling.html
