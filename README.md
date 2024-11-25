@@ -5,7 +5,7 @@ This repository hosts the final project (***`.pdf`***) for Advanced Machine Lear
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Exam Structure**
-The Fundamentals of Data Science exam comprised one assignments, a final project, and a oral exam that covered theoretical concepts .<br>
+The Fundamentals of Data Science exam comprised one assignments (***`Practice`***,***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`***,***`Theory`***), a final project, and a oral exam that covered theoretical concepts .<br>
 This repository contains the details of the final project component of the course.
 
 -------------------------------------------------------------------------------------------------------------------------------------
