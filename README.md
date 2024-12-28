@@ -5,7 +5,7 @@ This repository hosts the final project (***`Final Project folder`***) for Advan
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Exam Structure**
-The Fundamentals of Data Science exam comprised one assignments (***`Practice`***,***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`***,***`Theory`***), a final project(***`30_Cesario_Ciciani_Oddi_Zeller.pdf`***), and a oral exam that covered theoretical concepts .<br>
+The Fundamentals of Data Science exam comprised one assignments (***`Practice`***,***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`***,***`Theory`***), a final project(***`Report_Cesario_Ciciani_Oddi_Zeller.pdf` inside the Final Project folder***), and a oral exam that covered theoretical concepts .<br>
 This repository contains the details of the final project component of the course.
 
 -------------------------------------------------------------------------------------------------------------------------------------
