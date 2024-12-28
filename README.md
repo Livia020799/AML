@@ -1,6 +1,6 @@
 # Advanced Machine Learning
 
-This repository hosts the final project (***`.pdf`***) for Advanced Machine Learning exam, held by Professor Fabio Galasso, as part of the Master’s degree in Data Science at Sapienza University of Rome.
+This repository hosts the final project (***`Final Project folder`***) for Advanced Machine Learning exam, held by Professor Fabio Galasso, as part of the Master’s degree in Data Science at Sapienza University of Rome.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
