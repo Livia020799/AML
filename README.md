@@ -1,7 +1,5 @@
 # Advanced Machine Learning
 
-# **COME PRENDERE UN SUBSET DA SCENE-365 IN MODO TALE CHE RIMANGA UN DATASET BENCKMARK, NEL SENSO CHE RIMANE COMUNQUE UN DATASET I CUI RISULTATI SI POSSONO POSSO GENERALIZZARE NEL TASK DI SCENE RECOGNITION / COME FARE A LAVORARE EVENTUALMENTE CON > 25 GB DI IMMAGINI**
-
 This repository hosts the final project (***`.pdf`***) for Advanced Machine Learning exam, held by Professor Fabio Galasso, as part of the Master’s degree in Data Science at Sapienza University of Rome.
 
 -------------------------------------------------------------------------------------------------------------------------------------
