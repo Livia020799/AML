@@ -11,7 +11,21 @@ This repository contains the details of the assignment and final project compone
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Project Overview**
+Here’s a revised and more detailed overview of the project for the README:
 
+---
+
+**Scene Classification with Vision Transformers and Hybrid Models**
+
+This project builds upon the work of [Dosovitskiy et al. (2021)](https://arxiv.org/abs/2010.11929), exploring the application of Vision Transformers (ViTs) for scene classification tasks. Using a subset of the Places365 dataset, we evaluate and compare the performance of ViTs, hybrid CNN-Transformer models, and advanced CNN architectures. The goal is to assess the effectiveness of combining local feature extraction (via CNNs) with global spatial reasoning (via Transformers) in a scene-centric classification context.
+
+Key steps include:
+- Adapting pre-trained Vision Transformer models to the scene classification task.
+- Fine-tuning hybrid models, such as ResNet-50 + ViT-B/16, for enhanced performance.
+- Benchmarking these models against CNN-based architectures like ResNet-50 and DenseNet.
+- Analyzing model outputs using attention maps to understand how features are captured.
+
+More details in the report. 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,11 +38,3 @@ Please do not hesitate to contact me if you need further explanations or encount
 
  
 
-
-Repo da cui prendere "inspirazione":
-- @dansolombrino https://github.com/dansolombrino/AML-2023-24
-- @LM1997610 https://github.com/LM1997610/AdvancedML
-- @MaviVestini [https://github.com/aml-2023/assignment-3](https://github.com/aml-2023)
-(ci sono sia un assignment che progetto finale + altra roba)
-
-Book with code : https://d2l.ai/chapter_convolutional-neural-networks/pooling.html
