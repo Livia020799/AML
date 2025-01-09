@@ -11,11 +11,6 @@ This repository contains the details of the assignment and final project compone
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Project Overview**
-Here’s a revised and more detailed overview of the project for the README:
-
----
-
-**Scene Classification with Vision Transformers and Hybrid Models**
 
 This project builds upon the work of [Dosovitskiy et al. (2021)](https://arxiv.org/abs/2010.11929), exploring the application of Vision Transformers (ViTs) for scene classification tasks. Using a subset of the Places365 dataset, we evaluate and compare the performance of ViTs, hybrid CNN-Transformer models, and advanced CNN architectures. The goal is to assess the effectiveness of combining local feature extraction (via CNNs) with global spatial reasoning (via Transformers) in a scene-centric classification context.
 
