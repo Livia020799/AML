@@ -5,7 +5,7 @@ This repository hosts the final project (***`Final Project folder`***) for Advan
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Exam Structure**
-The FAdvanced Machine Learning exam comprised one assignments (***`Practice`***,***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`***,***`Theory`***), a final project(***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`*** inside the Final Project folder), and a oral exam that covered theoretical concepts .<br>
+The Advanced Machine Learning exam comprised one assignments (***`Practice`***,***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`***,***`Theory`***), a final project(***`Report_Cesario_Ciciani_Oddi_Zeller.pdf`*** inside the Final Project folder), and a oral exam that covered theoretical concepts .<br>
 This repository contains the details of the assignment and final project component of the course.
 
 -------------------------------------------------------------------------------------------------------------------------------------
