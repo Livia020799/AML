@@ -26,7 +26,7 @@ More details in the report.
 
 ### **Exam Score and Project Usage**
 
-**This project (plus the assignment and the final exam) received a * score * out of 30 on the final exam.** (*I will do this exam in the June/July session*) Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
+**This project (plus the homework and a final oral) received a perfect score of 30 out of 30 on the final exam**. Feel free to use it as a reference if you are planning to take the exam in the upcoming years.<br> 
 Please do not hesitate to contact me if you need further explanations or encounter any issues with the materials.
 
 
